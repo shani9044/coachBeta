@@ -1,0 +1,30 @@
+# Selenium automation library
+selenium~=4.25.0
+
+# Pytest
+pytest~=8.3.3
+
+# Parallel test
+pytest-xdist
+
+# Report
+pytest-html
+
+# Data driven test
+openpyxl
+
+# Driver manager
+webdriver-manager
+
+# Allure report
+allure-pytest
+allure-python-commons
+
+# Connect with google sheet
+gspread
+
+# restassured API
+requests
+
+# Data generator
+Faker
